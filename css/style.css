@@ -233,6 +233,9 @@ padding-bottom:25px;
  background: url(../images/f6.jpg) no-repeat 0px 0px;
  height:400px;
  margin-top:10px;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;	
 
 
 }
